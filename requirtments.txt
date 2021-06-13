@@ -1,0 +1,4 @@
+sudo apt install python3-opencv
+sudo pip3 install smtplib
+sudo pip3 install keyboard
+sudo pip3 install tqdm
